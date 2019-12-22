@@ -27,6 +27,6 @@ Below are the links to the content prepared by Kiza
 2. Docker Commands Reference Guide - https://ngachili187.github.io/docker.html
 3. PowerShell Commands Reference Guide - https://ngachili187.github.io/powershell.html
 4. Bash Commands Reference Guide - https://ngachili187.github.io/bash.html
-5. Comparison of Virtualisationa and Comtainerization - https://ngachili187.github.io/compare.html
+5. Blog Post of Comparison of Virtualisationa and Comtainerization - https://github.com/ngachili187/GSB-Project/wiki/The-difference-between-virtualization-and-containerization
 
 
