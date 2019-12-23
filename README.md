@@ -22,6 +22,6 @@ l.	Submit a push to the main branch
 ## Links to Content
 Below are the links to the content prepared by Kiza
 1. Git, PowerShell, Bash and Docker Commands Reference Guide - https://github.com/ngachili187/GSB-Project/blob/kizabranch/Commands.md
-5. Blog Post of Comparison of Virtualisationa and Comtainerization - https://github.com/ngachili187/GSB-Project/wiki/The-difference-between-virtualization-and-containerization
+2. Blog Post of Comparison of Virtualisationa and Comtainerization - https://github.com/ngachili187/GSB-Project/blob/kizabranch/ContainerisationVsVirtualisation.md
 
 
