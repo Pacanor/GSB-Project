@@ -10,23 +10,18 @@ a.	Folk repo
 b.	Create development branch
 c.	Clone to local repository
 d.	Update read.me to add contributors
-e.	Create a git commands guide
-f.	Add link to git commands in read.me
-g.	Create a Docker commands guide
-h.	Add link to Docker commands in read.me
-i.	Create a PowerShell commands guide
-j.	Add link to PowerShell commands in read.me
-k.	Create a Bash commands guide
-l.	Add link to Bash commands in read.me
-m.	Add link to blog post that compares containerization with virtualization in read.me 
-n.	Submit a push to the main branch
+e.	Create a commands guide and add git commands
+f.	Add link to commands guide in read.me
+g.	Update a commands guide and add Docker commands
+h.	Update a commands guide and add PowerShell commands
+i.	Update a commands guide and add Bash commands
+j.	Create a blog post as md file
+k.	Add link to blog post that compares containerization with virtualization in read.me 
+l.	Submit a push to the main branch
 
 ## Links to Content
 Below are the links to the content prepared by Kiza
-1. Git Commands Reference Guide - https://ngachili187.github.io/git.html
-2. Docker Commands Reference Guide - https://ngachili187.github.io/docker.html
-3. PowerShell Commands Reference Guide - https://ngachili187.github.io/powershell.html
-4. Bash Commands Reference Guide - https://ngachili187.github.io/bash.html
+1. Git, PowerShell, Bash and Docker Commands Reference Guide - https://github.com/ngachili187/GSB-Project/blob/kizabranch/Commands.md
 5. Blog Post of Comparison of Virtualisationa and Comtainerization - https://github.com/ngachili187/GSB-Project/wiki/The-difference-between-virtualization-and-containerization
 
 
